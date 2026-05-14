@@ -47,7 +47,6 @@
 | 权限 | 用途 |
 |------|------|
 | `storage` | 存储用户配置的Webhook URL和查重接口URL |
-| `scripting` | 在小红书页面注入收集按钮和数据提取脚本 |
 | `https://www.xiaohongshu.com/*` | 在小红书平台运行扩展功能 |
 | `https://www.rednote.com/*` | 在RedNote平台运行扩展功能 |
 | `https://edith.xiaohongshu.com/*` | 调用小红书API获取用户信息 |
