@@ -79,8 +79,7 @@
 
 如对本隐私权政策有任何疑问，请通过以下方式联系：
 
-- **GitHub Issues**: https://github.com/yourusername/xhs-comment-reporter/issues
-- **Email**: [your-email@example.com]
+- **Email**: [1113855149@qq.com]
 
 ## 合规声明
 
